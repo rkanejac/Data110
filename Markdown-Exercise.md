@@ -48,4 +48,6 @@ This scripture talks about the importance of being curious, analytical, resource
 ### Books :books: I've read/reading so far 
 1. Don't Let Her Stay by Nicola Sanders | Finished
 2. Slaying Dragons: A Practical Guide to Spritiual Warefare  by Daniel Kolenda | In Progress
-3. Songs of Solomon by Toni Morrison | In Progress 
+3. Songs of Solomon by Toni Morrison | In Progress
+
+

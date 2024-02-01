@@ -32,7 +32,7 @@ My name is Ralinkae **(Ruh-link-kay)** Kane-Jackson. I currently work as a data 
 |Austria | N/A | I stayed in a hotel for a couple of hours while waiting for my flight. I didn't really get the chance to explore Austria.| 
 
 
-## My favorite scripture is Proverbs 31:16-17: 
+### My favorite scripture is Proverbs 31:16-17: 
 > She surveys a field and acquires it; from her own resources, she plants a vineyard. She works energetically; her arms are powerful. 
 
 This scripture talks about the importance of being curious, analytical, resourceful, and fruitful, which are all characteristics that data analyst/scientist have. 
@@ -46,6 +46,6 @@ This scripture talks about the importance of being curious, analytical, resource
 - [ ] Implement a healither lifestyle :seedling:
 
 ### Books :books: I've read/reading so far 
-* Don't Let Her Stay by Nicola Sanders | Finished 
-* Slaying Dragons: A Practical Guide to Spritiual Warefare  by Daniel Kolenda | In Progress
-* Songs of Solomon by Toni Morrison | In Progress 
+1. Don't Let Her Stay by Nicola Sanders | Finished
+2. Slaying Dragons: A Practical Guide to Spritiual Warefare  by Daniel Kolenda | In Progress
+3. Songs of Solomon by Toni Morrison | In Progress 

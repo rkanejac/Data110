@@ -3,7 +3,7 @@
 
 ![Profile Picture](https://pbs.twimg.com/media/DJKQs3sWAAAKCBd?format=jpg&name=900x900).
 
-My name is Ralinkae **(Ruh-link-kay)** Kane-Jackson. I currently work as a data test engineer at Accenture but am inspired to be a data analyst in the future. I am an Electrical Engineering graduate from the University of Maryland, College Park (*Go terps!!*:turtle:). I want to apply to the online analytics graduate program at Georgia Tech. If you want to learn more about the program, you can more information [here](https://pe.gatech.edu/degrees/analytics/curriculum).
+My name is Ralinkae **(Ruh-link-kay)** Kane-Jackson. I currently work as a data test engineer at Accenture but am inspired to be a data analyst in the future. I am an Electrical Engineering graduate from the University of Maryland, College Park (*Go terps!!!*:turtle:). I want to apply to the online analytics graduate program at Georgia Tech. If you want to learn more about the program, you can more information [here](https://pe.gatech.edu/degrees/analytics/curriculum).
 
 ![UMD LOGO](https://umd-brand.transforms.svdcdn.com/production/uploads/images/informal-seal.png?w=512&h=512&auto=compress%2Cformat&fit=crop&dm=1656362660&s=f147c43be06ac2a530c41260819e63a1)
 
